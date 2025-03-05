@@ -1,4 +1,4 @@
-  //  Stykey Header  
+  //  Stikey Header  
   $(window).scroll(function(){
     var scrolling = $(this).scrollTop();
     
