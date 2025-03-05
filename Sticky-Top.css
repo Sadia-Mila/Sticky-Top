@@ -1,7 +1,17 @@
-   background: teal;
+
+.navbar{
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+    z-index:50;
+}
+/* ============================== */
+.sticky_header{
+    background: teal;
     animation: alamin 1s;
     }
-    
+
     @keyframes alamin{
     from{
     top: -100px;
